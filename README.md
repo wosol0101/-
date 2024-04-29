@@ -1,6 +1,6 @@
 # wosol
 
-![Welcome](https://capsule-render.vercel.app/api?type=cylinder&height=300&section=header&text=welcome)
+![Welcome](https://capsule-render.vercel.app/api?type=cylinder&height=200&section=header&text=welcome)
 
 
 # 🐰 introduce
