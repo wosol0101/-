@@ -10,10 +10,14 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link)
+
+
 
 # 🐰 introduce
 |이름|나이|학과|
 |------|---|-----|
 |전우솔|22|화학생명공학과|
+
 
 <div align="center">
